@@ -1,0 +1,13 @@
+## Mô tả
+
+Tên: [ESP32-CAM] Phần 3: Webserver, hiển thị ảnh từ camera
+Cần Có: 
+- Module ESP32-CAM
+- Đã cài đặt môi trường lập trình ESP32-CAM trên Arduino IDE (Các bạn googling trên mạng là có mình dùng của Espressif Systems)
+
+## Thêm
+
+## Chức năng
+- Stream tối đa 5 thiết bị
+- Web có chỉnh pan tilt, led
+- có chỉnh chất lượng ảnh
